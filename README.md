@@ -85,10 +85,6 @@ Asynchronous Communication Between Microservices Using the .NET Core API, Rabbit
 - [Observable Vs Promise](https://medium.com/@jaydeepvpatil225/observable-and-promise-in-angular-fbbf0335a994) - Observable and Promise in Angular
 - [Angular 15 Application Deployment](https://medium.com/@jaydeepvpatil225/angular-15-application-deployment-on-firebase-267d19bd1521) - Angular 15 Application Deployment on Firebase
 
-## 📊 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydeep-007&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 - [GitHub](https://github.com/jaydeep-007)
 - [LinkedIn](https://www.linkedin.com/in/jaydeep-patil-b13a54134/)
